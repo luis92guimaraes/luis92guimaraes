@@ -1,11 +1,12 @@
 # Hi There!👋
-## My name is Luis Fernando
+## My name is Luis Fernando, welcome to my profile!
 
 ### (HTML | CSS | Javascript) 🚀
 
 - Student of Systems Analysis and Development 🧠
 - Programming Student 👾
 - Facing new challenges 🦾
+- Lover of life and technology 🫶
 
 <div>
   <a href="https://github.com/luis92guimaraes">
