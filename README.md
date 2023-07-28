@@ -22,7 +22,7 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/luisfguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luis92guimaraes@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luis92guimaraes@outloook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
   ![snake gif](https://github.com/luis92guimaraes/luis92guimaraes/blob/output/github-contribution-grid-snake.svg)
 
