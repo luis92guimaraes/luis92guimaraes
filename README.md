@@ -1,4 +1,7 @@
-### Olá! Sejam bem vindos ao meu Perfil! 😁
+# Hi There!👋
+##My name is Luis Fernando
+### (HTML | CSS | Javascript)
+
 <div>
   <a href="https://github.com/luis92guimaraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis92guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +16,8 @@
  <br>
   
 <div> 
-  <a href="https://www.linkedin.com/in/luisfguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luisfguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luis92guimaraes@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 
   ![snake gif](https://github.com/luis92guimaraes/luis92guimaraes/blob/output/github-contribution-grid-snake.svg)
 
