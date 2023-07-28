@@ -14,7 +14,7 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/luisfguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/luis92guimaraes/luis92guimaraes/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
 
 </div>
