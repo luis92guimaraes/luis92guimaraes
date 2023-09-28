@@ -1,7 +1,7 @@
 # Hi There!👋
 ## My name is Luis Fernando, welcome to my profile!
 
-### (HTML | CSS | Javascript) 🚀
+### HTML | CSS | Javascript 🚀
 
 - Student of Systems Analysis and Development 🧠
 - Programming Student 👾
