@@ -1,12 +1,11 @@
-# Hi There!👋
+# Hi There!✌️
 ## My name is Luis Fernando, welcome to my profile!
-
-### HTML | CSS | Javascript 🚀
 
 - Student of Systems Analysis and Development 🧠
 - Programming Student 👾
-- Facing new challenges 🦾
-- Lover of life and technology 🫶
+- Facing New Challenges 🦾
+- Lover of Life and Technology 🫶
+- In Constant Learning 🚀
 
 <div>
   <a href="https://github.com/luis92guimaraes">
@@ -16,7 +15,7 @@
 
 <br>
 
-# Skills 🧠   
+## Skills 🧠   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +26,7 @@
  
  <br>
 
-# Contact ☎️
+## Contact ☎️
 <div> 
   <a href="https://www.linkedin.com/in/luisfguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:luis92guimaraes@outloook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
