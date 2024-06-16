@@ -1,7 +1,7 @@
 # Hi There!✌️
 ## My name is Luis Fernando, welcome to my profile!
 
-- Student of Systems Analysis and Development 🧠
+- Systems Analysis and Development Student 🧠
 - Programming Student 👾
 - Facing New Challenges 🦾
 - Lover of Life and Technology 🫶
